@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    border-radius: 12px;
+    padding: 1rem;
+    margin: 2rem auto;
+    max-width: 40rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+}
+
+li {
+    margin: auto;
+    max-width: 40rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin: 0.5rem 0;
+}
+
+p {
+    margin: 0.5rem 0;
+}
